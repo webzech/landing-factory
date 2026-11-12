@@ -1,0 +1,1268 @@
+# MASTER PROJECT PROMPT: LANDING FACTORY
+## Complete German Website Development, 21-Page SEO Architecture, Technical SEO & Organic Lead Generation Project
+
+### 1. PROJECT OVERVIEW
+
+Act as a senior full-stack web developer, professional UI/UX designer, German SEO strategist, technical SEO specialist, content strategist, conversion rate optimization expert, and digital marketing consultant.
+
+Your task is to plan, develop, optimize, and deliver a complete, professional, high-performance website for **Landing Factory**, a German web development and SEO agency.
+
+Website: https://www.landing-factory.de  
+Website Language: German (Deutsch)  
+Target Market: Germany (Deutschland)  
+Primary Business Category: Webentwicklung und SEO Agentur  
+Business Objective: Generate qualified organic leads, attract potential German business clients, improve Google visibility, and establish Landing Factory as a credible professional web development and SEO agency.
+
+This is a real commercial business website, not a demo, template, mockup, or practice project.
+
+The final result must be a complete, functional, responsive, professionally designed website with high-quality German content and a carefully planned SEO architecture.
+
+**Quality requirement:** Every component must be implemented to a professional production standard. Do not take shortcuts, use generic content, or leave unfinished sections.
+
+---
+
+# 2. BUSINESS INFORMATION
+
+Use the following actual business information throughout the website wherever appropriate.
+
+**Company Name:** Landing Factory
+
+**Owner / Responsible Contact:** Werner Polatschek
+
+**Phone / WhatsApp:** +49 176 29862291
+
+**Email:** die@landing-factory.de
+
+**Business Address:**
+Bürg 20  
+94474 Vilshofen  
+Germany
+
+**Website:** https://www.landing-factory.de
+
+All contact details must be consistent across the website.
+
+Implement:
+- Clickable telephone links.
+- Direct WhatsApp contact links.
+- Functional email links.
+- Contact forms with proper validation.
+- Clear contact information in the footer.
+- Professional calls to action throughout the website.
+
+Do not invent additional business information, registration numbers, certifications, awards, client testimonials, or company achievements.
+
+---
+
+# 3. TECHNOLOGY STACK
+
+Develop the website using simple, lightweight, reliable, and SEO-friendly technologies.
+
+Use the following technologies:
+
+**HTML5**
+- Semantic HTML5 structure.
+- Proper heading hierarchy.
+- Accessible navigation.
+- SEO-friendly page markup.
+- Structured content sections.
+
+**CSS3**
+- Modern responsive layouts.
+- Flexbox and CSS Grid.
+- CSS variables for design consistency.
+- Professional animations and transitions.
+- Mobile-first responsive styling.
+- Modern typography and spacing.
+
+**Vanilla JavaScript**
+- Mobile navigation.
+- Dropdown menus.
+- Interactive components.
+- Form validation.
+- FAQ accordions.
+- Scroll animations.
+- Cookie consent functionality where required.
+- Other necessary frontend interactions.
+
+**Additional permitted technologies:**
+- JSON-LD for structured data.
+- XML for the sitemap.
+- robots.txt for crawler instructions.
+- SVG for icons and vector graphics.
+
+Avoid unnecessary frameworks and complicated programming languages.
+
+Do not use React, Next.js, Angular, Vue, or other complex frameworks unless there is a clearly demonstrated technical necessity.
+
+The website must be easy to maintain, edit, upload, and host on standard web hosting.
+
+Organize the code professionally into reusable components or shared files where practical.
+
+Suggested project structure:
+
+/assets/
+/assets/css/
+/assets/js/
+/assets/images/
+/assets/icons/
+/pages/
+/index.html
+/robots.txt
+/sitemap.xml
+/favicon.ico
+/site.webmanifest
+
+Use clean URLs without unnecessary file extensions where the hosting environment supports them. Configure proper URL rewriting and canonical URLs.
+
+---
+
+# 4. WEBSITE STRUCTURE: EXACTLY 21 CORE SEO PAGES
+
+The website must contain exactly 21 primary SEO landing pages:
+
+- 1 Main Homepage.
+- 10 Keyword-Based Pages.
+- 5 Location-Based Pages.
+- 5 Service-Based Pages.
+
+These are the 21 core commercial SEO pages.
+
+In addition, create the necessary supporting pages, including About Us, Contact, Impressum, Datenschutz, and any other genuinely necessary legal or functional pages.
+
+Do not count supporting and legal pages within the 21 core SEO pages.
+
+## A. MAIN HOMEPAGE — 1 PAGE
+
+Primary target keyword:
+
+**webentwicklung und seo agentur**
+
+This is the most important page of the entire website.
+
+The homepage must establish Landing Factory as a professional German Webentwicklung und SEO Agentur.
+
+Develop a strong homepage that includes:
+
+1. Professional hero section.
+2. Powerful German headline incorporating the primary keyword naturally.
+3. Clear explanation of what Landing Factory does.
+4. Professional introduction to the company.
+5. Webentwicklung services.
+6. Webdesign and website development.
+7. Landingpage development.
+8. Search engine optimization.
+9. Technical SEO.
+10. Local SEO.
+11. Google Maps optimization.
+12. Shopify services.
+13. Business problems and their solutions.
+14. Why businesses need professional web development and SEO.
+15. Our working process.
+16. Benefits of working with Landing Factory.
+17. Relevant service overviews linking to dedicated pages.
+18. Regional service coverage.
+19. Frequently asked questions.
+20. Strong contact and WhatsApp calls to action.
+21. Professional footer with complete navigation.
+
+The homepage should target the main agency keyword while naturally supporting related secondary keywords.
+
+Avoid keyword stuffing.
+
+The homepage must communicate a clear commercial message:
+
+Landing Factory helps businesses build professional websites, improve search visibility, and reach potential customers through Google Search and Google Maps.
+
+Do not make unrealistic ranking or lead-generation guarantees.
+
+## B. KEYWORD-BASED PAGES — 10 PAGES
+
+Create one dedicated, unique landing page for each of the following primary keywords.
+
+Each page must focus on its assigned keyword and its relevant search intent.
+
+1. webentwicklung agentur
+2. agentur für webentwicklung
+3. agentur webentwicklung
+4. webentwickler agentur
+5. webdesign agentur
+6. webentwicklung und webdesign
+7. seo agentur
+8. agentur für seo
+9. seo marketing agentur
+10. online agentur
+
+Important keyword validation:
+
+Research all ten keywords before creating their pages.
+
+Check their actual German search intent, search volume, competition, and commercial relevance.
+
+The keyword variants must not automatically result in ten nearly identical pages.
+
+Where two keywords have practically identical search intent, develop genuinely differentiated content and page positioning. If a keyword is misspelled, unnatural, or has no meaningful search demand, report this finding and recommend the closest valid German search term rather than publishing misleading content.
+
+However, preserve the requested ten-page architecture and provide an individual content strategy for every page.
+
+For every keyword page:
+
+- One primary keyword.
+- Relevant secondary keywords.
+- Semantically related terms.
+- Search-intent analysis.
+- Unique SEO title.
+- Unique meta description.
+- One clear H1.
+- Proper H2 and H3 structure.
+- Detailed and useful German content.
+- Business problems and practical solutions.
+- Service explanations.
+- Benefits and differentiators.
+- Relevant internal links.
+- Relevant FAQs.
+- Clear calls to action.
+- Optimized images and descriptive alt text.
+- Appropriate structured data.
+
+Prevent keyword cannibalization between these pages.
+
+Each page must have a distinct reason to exist.
+
+## C. LOCATION-BASED PAGES — 5 PAGES
+
+Create five dedicated German location pages.
+
+Primary targets:
+
+1. webentwicklung agentur berlin
+2. webentwicklung agentur münchen
+3. webentwicklung agentur köln
+4. webentwicklung agentur frankfurt
+5. webentwicklung agentur stuttgart
+
+Include relevant secondary keywords naturally, such as:
+
+- seo agentur berlin
+- seo agentur münchen
+- seo agentur köln
+- seo agentur frankfurt
+- seo agentur stuttgart
+
+Each location page must have genuinely useful, locally relevant content.
+
+Include:
+
+- Introduction to the local business market.
+- Common website and online visibility problems.
+- Local business website requirements.
+- Web development solutions.
+- SEO and Google visibility.
+- Local search optimization.
+- Google Maps visibility where relevant.
+- Location-specific business challenges.
+- Relevant service recommendations.
+- FAQs.
+- Contact options.
+
+CRITICAL LOCATION PAGE REQUIREMENT:
+
+Landing Factory's actual business address is in Vilshofen, Germany.
+
+Never falsely claim that Landing Factory has physical offices, local teams, local branches, or verified business addresses in Berlin, Munich, Cologne, Frankfurt, or Stuttgart.
+
+Clearly communicate remote service availability wherever appropriate.
+
+Do not create fake local business listings, fake addresses, fake local testimonials, or misleading location signals.
+
+Each location page must offer genuine informational value rather than simply replacing the city name in duplicated content.
+
+## D. SERVICE-BASED PAGES — 5 PAGES
+
+Create five dedicated service pages targeting these primary keywords:
+
+1. individuelle webentwicklung
+2. local seo agentur
+3. shopify seo agentur
+4. landingpage agentur
+5. seo audit agentur
+
+Include these related keyword variations:
+
+- shopify agentur
+- landingpage optimierung agentur
+
+Every service page must be a complete commercial landing page.
+
+Explain:
+
+- What the service is.
+- Which businesses need it.
+- Which problems it solves.
+- How Landing Factory delivers the service.
+- The benefits for the customer.
+- The working process.
+- Relevant technical details.
+- Common questions.
+- Clear contact options.
+
+The pages must be informative, persuasive, professional, and conversion-focused.
+
+Do not invent specific service features or guarantees that the business cannot actually deliver.
+
+---
+
+# 5. SECONDARY KEYWORDS AND SEMANTIC CLUSTERS
+
+Use the following keyword groups for semantic optimization, internal linking, relevant supporting sections, and future content planning.
+
+Do not force every keyword into every page.
+
+Assign each keyword to the most relevant existing page based on search intent.
+
+### Web Development and Design Cluster
+
+- webentwicklung
+- webdesign
+- web development
+- web entwicklung agentur
+- freelance webentwickler agenturen
+- website agentur
+- webdesign hamburg
+- agentur für webdesign
+- webentwicklung düsseldorf
+- webentwicklung dortmund
+- webentwicklung karlsruhe
+- webentwicklung dresden
+
+### SEO and Marketing Cluster
+
+- google seo agentur
+- seo online agentur
+- seo optimierung agentur
+- b2b seo agentur
+- seo premium agentur
+- amazon seo agentur
+- seo content agentur
+- seo texte agentur
+- seo sea agentur
+- seo agentur hamburg
+- seo agentur nürnberg
+- seo agentur leipzig
+- seo agentur dortmund
+- seo agentur düsseldorf
+
+### Regional and Niche Cluster
+
+- seo agentur kronach
+- seo agentur niederbayern
+- suchmaschinenoptimierung landshut
+- regionales landingpages seo
+- webdesign niederbayern
+- webdesign rottal-inn
+- webagentur niederbayern
+
+For each cluster:
+
+1. Identify its search intent.
+2. Select the most relevant destination page.
+3. Define the primary and secondary keywords.
+4. Avoid unnecessary keyword repetition.
+5. Connect related pages through meaningful internal links.
+6. Identify keywords that deserve future blog content.
+7. Do not create additional thin landing pages just to target every keyword.
+
+Create a keyword mapping document showing which primary and secondary keywords belong to which page.
+
+---
+
+# 6. ADDITIONAL REQUIRED PAGES
+
+In addition to the 21 core SEO pages, create the following pages:
+
+### About Us — Über uns
+
+Introduce Landing Factory professionally.
+
+Explain the company's approach, values, services, working methodology, and commitment to helping businesses improve their online presence.
+
+Use authentic information only.
+
+### Contact — Kontakt
+
+Create a professional contact page containing:
+
+- Name.
+- Email.
+- Phone.
+- WhatsApp.
+- Address.
+- Functional contact form.
+- Clear response and inquiry instructions.
+
+### Impressum
+
+Create a German Impressum according to applicable German legal requirements.
+
+Use the supplied business information.
+
+Do not invent missing legally required information.
+
+Identify information that must be verified or supplied by the business owner.
+
+### Datenschutz
+
+Create a German privacy policy covering the actual data processing and integrations used on the website.
+
+Do not claim that analytics, tracking, cookies, or third-party services are absent if they are implemented.
+
+The policy must reflect the actual website configuration and applicable GDPR requirements.
+
+### Cookie Settings
+
+Implement an appropriate cookie consent mechanism if non-essential cookies or tracking technologies are used.
+
+Ensure consent is collected before activating technologies that require prior consent.
+
+Provide an accessible way to change or withdraw consent.
+
+Do not use misleading consent buttons or preselected non-essential cookies.
+
+### Other Necessary Supporting Pages
+
+Create an FAQ page and a custom 404 error page.
+
+Add additional legal or accessibility information where required by the actual website and applicable German regulations.
+
+---
+
+# 7. WEBSITE DESIGN AND USER EXPERIENCE
+
+The design must look like a premium, professionally developed German WordPress agency website.
+
+The website should feel clean, trustworthy, modern, corporate, and visually polished.
+
+Do not make it look like a basic HTML template, cheap landing page, generic AI website, or unfinished demo.
+
+### Visual Design Requirements
+
+- Modern German corporate design.
+- Professional typography.
+- Consistent color palette.
+- Excellent whitespace management.
+- Well-designed content sections.
+- Strong visual hierarchy.
+- Professional navigation.
+- High-quality buttons.
+- Clean cards and service layouts.
+- Professional footer.
+- Subtle shadows and borders.
+- Consistent spacing.
+- Responsive image layouts.
+
+Use a carefully selected professional color palette suitable for a German digital agency.
+
+Use modern, readable typography with full German character support.
+
+### Header and Navigation
+
+Create a professional sticky or fixed header where appropriate.
+
+The header should include:
+
+- Company logo.
+- Homepage.
+- Webentwicklung.
+- Webdesign.
+- SEO.
+- Standorte.
+- Über uns.
+- Kontakt.
+- A prominent contact CTA.
+
+Use dropdown navigation where useful.
+
+Do not overload the header with all 21 SEO pages.
+
+Organize the navigation logically.
+
+### Footer
+
+The footer should include:
+
+- Company logo.
+- Short company introduction.
+- Main service links.
+- Important SEO page links.
+- Regional page links.
+- About Us.
+- Contact.
+- Impressum.
+- Datenschutz.
+- Cookie settings where applicable.
+- Phone.
+- Email.
+- Address.
+- Copyright notice.
+
+All links must work correctly.
+
+### Advanced Animations
+
+Implement modern, subtle, professional animations:
+
+- Smooth scrolling.
+- Hover effects.
+- Scroll-triggered reveal animations.
+- Button transitions.
+- Dropdown transitions.
+- Card interactions.
+- Subtle image animations.
+- Mobile menu transitions.
+
+Animations must not harm performance, accessibility, or usability.
+
+Respect reduced-motion preferences.
+
+Avoid excessive effects, unnecessary parallax, distracting animations, and heavy JavaScript.
+
+---
+
+# 8. LOGO, FAVICON AND BRAND IDENTITY
+
+Create or implement a professional Landing Factory brand identity.
+
+Requirements:
+
+- Professional company logo.
+- SVG logo where possible.
+- High-quality favicon.
+- favicon.ico.
+- PNG favicon variations.
+- SVG favicon.
+- Apple touch icon.
+- Web app manifest.
+- Appropriate browser theme color.
+
+The favicon must be correctly connected through the website's HTML head.
+
+The logo must be visible in the header and footer.
+
+Use proper brand consistency.
+
+Google may display the favicon in search results when its requirements are met, but display cannot be guaranteed.
+
+---
+
+# 9. IMAGE STRATEGY AND OPTIMIZATION
+
+Visual quality is extremely important.
+
+Use high-quality, authentic, relevant images that match the content of each page.
+
+Images should represent:
+
+- Web development.
+- Professional websites.
+- Website design.
+- SEO analysis.
+- Digital marketing.
+- Online business.
+- E-commerce.
+- Shopify.
+- Local businesses.
+- Professional business environments.
+- Digital agency workflows.
+
+### Image Requirements
+
+Use legitimately licensed images from sources such as:
+
+- Unsplash.
+- Pexels.
+- Pixabay.
+- Other reputable image providers with appropriate licensing.
+
+Do not simply copy random images from Google Images.
+
+Google Images is a discovery platform, not a guarantee of usage rights.
+
+Never use watermarked, stolen, low-resolution, unrelated, or misleading images.
+
+For each image:
+
+1. Select a relevant image.
+2. Use an appropriate descriptive filename.
+3. Compress the image.
+4. Prefer WebP or AVIF where supported.
+5. Specify width and height.
+6. Implement responsive images.
+7. Use descriptive alt text.
+8. Lazy-load non-critical images.
+9. Prioritize the main hero image when appropriate.
+10. Avoid layout shifts.
+
+Alt text must describe the actual image naturally.
+
+Do not stuff keywords into image alt attributes.
+
+Each page must have its own relevant visual content.
+
+---
+
+# 10. COMPLETE ON-PAGE SEO
+
+Implement comprehensive on-page SEO across all 21 core pages and relevant supporting pages.
+
+Every page must have:
+
+- Unique SEO title.
+- Unique meta description.
+- One clear H1.
+- Logical H2 and H3 headings.
+- Proper keyword targeting.
+- Relevant secondary keywords.
+- Semantic keyword coverage.
+- Useful and complete German content.
+- Descriptive URL slug.
+- Canonical URL.
+- Optimized images.
+- Descriptive alt attributes.
+- Internal links.
+- Relevant external references where useful.
+- Appropriate structured data.
+- Breadcrumb navigation where appropriate.
+- Clear calls to action.
+
+### Content Quality Requirements
+
+The German content must be:
+
+- Grammatically correct.
+- Natural and fluent.
+- Professionally written.
+- Appropriate for German business customers.
+- Helpful and informative.
+- Commercially relevant.
+- Focused on actual customer problems.
+- Based on accurate information.
+- Free from keyword stuffing.
+- Free from generic AI filler.
+
+Use natural German business terminology.
+
+Avoid unnatural English translations and keyword combinations that German users would not normally use.
+
+Write content that answers the visitor's questions and helps them make informed purchasing decisions.
+
+Do not write content merely to increase word count.
+
+Every section must provide real value.
+
+---
+
+# 11. COMPLETE TECHNICAL SEO
+
+Implement professional technical SEO across the entire website.
+
+### HTML and Structure
+
+- Valid HTML5.
+- Semantic elements.
+- Correct heading hierarchy.
+- Proper language attribute: lang="de".
+- Correct UTF-8 encoding.
+- Responsive viewport.
+- Clean document structure.
+- Accessible navigation.
+
+### URL Structure
+
+Use short, descriptive, lowercase German URLs.
+
+Avoid unnecessary parameters, duplicate URLs, and inconsistent trailing slashes.
+
+Implement consistent canonical URLs.
+
+### Indexing
+
+- Create XML sitemap.
+- Add all intended indexable URLs.
+- Exclude duplicate and non-indexable pages.
+- Configure robots.txt correctly.
+- Implement appropriate meta robots directives.
+- Avoid accidental noindex tags.
+- Avoid accidental crawler blocking.
+- Ensure canonical URLs are correct.
+- Ensure important pages are internally discoverable.
+
+Do not guarantee indexing or rankings. Verify actual results using Google Search Console.
+
+### Structured Data
+
+Implement appropriate JSON-LD structured data where eligible and accurate.
+
+Consider:
+
+- Organization.
+- WebSite.
+- WebPage.
+- BreadcrumbList.
+- Service.
+- LocalBusiness, only where the business and its actual operating model qualify.
+- Contact information where appropriate.
+
+Do not add fake review, aggregate rating, or other misleading schema.
+
+### Performance
+
+Optimize:
+
+- CSS.
+- JavaScript.
+- Images.
+- Font loading.
+- Caching.
+- Compression.
+- Resource loading.
+- Critical rendering path.
+- Layout stability.
+
+Target excellent Core Web Vitals.
+
+Aim for strong Lighthouse results, ideally 90+ in Performance, Accessibility, Best Practices, and SEO where achievable.
+
+Do not manipulate scores or sacrifice functionality to reach a numerical target.
+
+### Mobile SEO
+
+The website must be fully responsive and usable on:
+
+- Smartphones.
+- Tablets.
+- Laptops.
+- Desktop monitors.
+
+Test real viewport sizes and ensure there is no horizontal overflow.
+
+---
+
+# 12. INTERNAL LINKING AND WEBSITE ARCHITECTURE
+
+Internal linking is a major requirement.
+
+All 21 core pages must be properly connected through a logical website structure.
+
+Create clear topical relationships.
+
+### Homepage
+
+Link to the most important service and keyword pages.
+
+### Keyword Pages
+
+Link to relevant service pages, related keyword pages, location pages, and contact page.
+
+### Location Pages
+
+Link to relevant service pages, homepage, and contact page.
+
+### Service Pages
+
+Link to their related keyword pages and relevant location pages.
+
+### Supporting Pages
+
+Connect About, Contact, FAQ, and legal pages through appropriate navigation and footer links.
+
+Implement:
+
+- Contextual internal links.
+- Descriptive anchor text.
+- Breadcrumbs.
+- Logical navigation.
+- Related service sections.
+- Related location sections.
+
+Avoid excessive exact-match anchor repetition.
+
+No important SEO page should become an orphan page.
+
+Create an internal linking map documenting the relationships between all 21 core pages.
+
+---
+
+# 13. CONTENT STRATEGY AND SEARCH INTENT
+
+Before writing any page, research its intended search audience.
+
+For each page determine:
+
+1. What does the searcher want?
+2. Is the intent informational, commercial, transactional, or navigational?
+3. What problem is the visitor trying to solve?
+4. What information would help them?
+5. What makes the page genuinely useful?
+6. What service should be presented?
+7. What action should the visitor take?
+
+Use this research to develop high-value content.
+
+Create practical explanations rather than generic agency marketing statements.
+
+Where appropriate, include:
+
+- Realistic examples.
+- Step-by-step explanations.
+- Business use cases.
+- Common mistakes.
+- Practical recommendations.
+- FAQs.
+- Service comparisons.
+- Actionable guidance.
+
+Do not invent statistics, case studies, customer experiences, or success stories.
+
+---
+
+# 14. CONVERSION RATE OPTIMIZATION AND LEAD GENERATION
+
+The website must not only attract traffic. It must convert suitable visitors into business inquiries.
+
+Implement professional conversion elements.
+
+### Contact Options
+
+- WhatsApp CTA.
+- Phone CTA.
+- Email CTA.
+- Contact form.
+- Service inquiry buttons.
+
+### CTA Examples in German
+
+- Jetzt unverbindlich anfragen
+- Website-Projekt besprechen
+- Beratung anfragen
+- Kontakt aufnehmen
+- Mehr über unsere Leistungen erfahren
+
+Use clear and relevant CTAs.
+
+Avoid aggressive or misleading sales language.
+
+### Contact Form
+
+Create a functional form with:
+
+- Name.
+- Email.
+- Company (optional).
+- Requested service.
+- Message.
+- Privacy consent where legally required.
+
+Implement:
+
+- Input validation.
+- Appropriate error messages.
+- Spam protection.
+- Secure submission.
+- Success and failure feedback.
+
+A frontend-only form is not sufficient.
+
+Configure a real backend or a reliable form-processing service before declaring the form operational.
+
+Never expose API keys, credentials, or sensitive information in frontend JavaScript.
+
+---
+
+# 15. GERMAN MARKET AND LEGAL REQUIREMENTS
+
+The website must be written specifically for German customers.
+
+Use:
+
+- Natural German language.
+- German spelling.
+- German date and number conventions.
+- Professional Sie-form communication unless there is a strong brand reason otherwise.
+- Germany-appropriate contact presentation.
+- Applicable privacy and consumer protection requirements.
+
+Review relevant legal requirements, including:
+
+- DSGVO / GDPR.
+- TDDDG cookie and tracking requirements.
+- German Impressum requirements.
+- Applicable accessibility obligations.
+- Other applicable website compliance requirements.
+
+Do not copy a random legal template and claim it is fully compliant.
+
+Flag missing information requiring owner or legal review.
+
+---
+
+# 16. GOOGLE SEARCH CONSOLE AND INDEXING PREPARATION
+
+Prepare the website for Google Search Console.
+
+Implement:
+
+- XML sitemap.
+- Correct canonical URLs.
+- Proper robots.txt.
+- Indexable page configuration.
+- Internal linking.
+- Correct page metadata.
+- Mobile responsiveness.
+- Structured data.
+
+Provide clear instructions for:
+
+1. Adding the domain to Google Search Console.
+2. Verifying domain ownership.
+3. Submitting the XML sitemap.
+4. Inspecting important URLs.
+5. Requesting indexing where appropriate.
+6. Checking indexing status.
+7. Monitoring search performance.
+8. Monitoring clicks, impressions, CTR, and average position.
+9. Identifying indexing errors.
+10. Fixing discovered issues.
+
+Do not claim that pages have been indexed until this has been verified in Search Console.
+
+---
+
+# 17. GOOGLE MAPS AND LOCAL SEO
+
+Optimize Landing Factory's online presence for relevant local searches.
+
+Actual business location:
+
+Vilshofen, Niederbayern, Germany.
+
+Support the local SEO strategy through:
+
+- Consistent business name.
+- Accurate address.
+- Consistent phone number.
+- Accurate website URL.
+- Relevant business category.
+- Professional business description.
+- Useful business photos.
+- Appropriate local content.
+- Google Business Profile optimization.
+- Relevant local citations where appropriate.
+
+Target genuinely relevant regional searches, including:
+
+- webdesign niederbayern
+- webagentur niederbayern
+- seo agentur niederbayern
+- webdesign rottal-inn
+- suchmaschinenoptimierung landshut
+
+Do not create fake Google Business Profiles for other cities.
+
+Do not create fake local addresses or business citations.
+
+---
+
+# 18. AI SEARCH VISIBILITY
+
+Prepare the website for accurate discovery and understanding by modern search and AI systems.
+
+Focus on:
+
+- Clear business information.
+- Well-structured content.
+- Helpful answers.
+- Consistent service descriptions.
+- Accurate company information.
+- Descriptive headings.
+- Appropriate structured data.
+- Authoritative external references.
+- Accessible, crawlable pages.
+
+Consider visibility across Google Search, Google AI Overviews, ChatGPT search, and Gemini where applicable.
+
+Do not promise inclusion or recommendations by any AI platform.
+
+Prioritize helpful, trustworthy content rather than artificial AI-specific keyword tricks.
+
+---
+
+# 19. ACCESSIBILITY AND USABILITY
+
+Follow recognized accessibility best practices.
+
+Implement:
+
+- Keyboard navigation.
+- Visible focus states.
+- Accessible forms.
+- Proper labels.
+- Descriptive link text.
+- Appropriate color contrast.
+- Useful image alt text.
+- Semantic landmarks.
+- Reduced-motion support.
+- Accessible dropdown menus.
+- Accessible error messages.
+
+Ensure the website remains usable for visitors with different accessibility needs.
+
+---
+
+# 20. SECURITY AND CODE QUALITY
+
+Develop the website with professional coding standards.
+
+Requirements:
+
+- Clean code.
+- Consistent indentation.
+- Reusable components.
+- Secure form handling.
+- Input sanitization.
+- No exposed credentials.
+- No unnecessary third-party scripts.
+- No broken links.
+- No console errors.
+- No unnecessary dependencies.
+- Proper error handling.
+- Safe external links.
+- Secure hosting configuration.
+
+Use HTTPS throughout.
+
+Avoid mixed content and insecure resources.
+
+---
+
+# 21. TESTING AND QUALITY ASSURANCE
+
+Before considering the website complete, test every page and major component.
+
+### Page Testing
+
+Check all 21 core SEO pages individually.
+
+Check all supporting and legal pages.
+
+### Functional Testing
+
+Test:
+
+- Main navigation.
+- Dropdown menus.
+- Mobile menu.
+- Logo link.
+- Footer links.
+- WhatsApp links.
+- Phone links.
+- Email links.
+- Contact forms.
+- CTA buttons.
+- FAQ accordions.
+- Cookie settings.
+- Breadcrumbs.
+- Internal links.
+- 404 page.
+
+Every button and clickable element must perform its intended action.
+
+Never leave decorative buttons that appear functional but do nothing.
+
+### SEO Testing
+
+Check:
+
+- Title tags.
+- Meta descriptions.
+- H1 headings.
+- Canonical tags.
+- Robots directives.
+- Sitemap.
+- Robots.txt.
+- Image alt text.
+- Structured data.
+- Internal linking.
+- Broken links.
+- Duplicate content.
+- Keyword cannibalization.
+- Mobile usability.
+
+### Performance Testing
+
+Use appropriate tools such as:
+
+- Google Lighthouse.
+- PageSpeed Insights.
+- Google Search Console.
+- Rich Results Test.
+- Schema Markup Validator.
+
+Document problems and fix them before delivery.
+
+---
+
+# 22. REQUIRED PROJECT DOCUMENTATION
+
+Deliver the following documentation alongside the finished website:
+
+1. Complete website source code.
+2. Project folder structure.
+3. List of all 21 core SEO pages.
+4. List of additional supporting pages.
+5. Keyword research report.
+6. Primary and secondary keyword mapping.
+7. Keyword clustering report.
+8. Search intent analysis.
+9. SEO title and meta description sheet.
+10. Internal linking architecture.
+11. Image sources and licensing information.
+12. Technical SEO checklist.
+13. Sitemap.
+14. Robots.txt.
+15. Schema markup overview.
+16. Google Search Console setup instructions.
+17. Hosting and deployment instructions.
+18. Final QA and testing report.
+19. Outstanding requirements or limitations.
+
+All documentation must reflect the actual implemented website.
+
+---
+
+# 23. DEVELOPMENT WORKFLOW
+
+Follow this workflow in order.
+
+### Phase 1: Research and Planning
+
+- Analyze the German web development and SEO market.
+- Research the target keywords.
+- Analyze competitors.
+- Understand search intent.
+- Identify keyword overlap.
+- Finalize the 21-page architecture.
+- Develop the keyword mapping.
+- Plan the navigation and internal linking.
+
+### Phase 2: Design
+
+- Develop the brand direction.
+- Design the homepage.
+- Establish typography and colors.
+- Create the header and footer.
+- Design reusable page layouts.
+- Establish responsive behavior.
+
+### Phase 3: Development
+
+- Build the homepage.
+- Build the 10 keyword pages.
+- Build the 5 location pages.
+- Build the 5 service pages.
+- Build supporting and legal pages.
+- Implement navigation.
+- Implement all functional components.
+
+### Phase 4: Content and SEO
+
+- Write professional German content.
+- Implement all metadata.
+- Optimize images.
+- Implement internal links.
+- Add structured data.
+- Create sitemap and robots.txt.
+- Implement technical SEO.
+
+### Phase 5: Testing
+
+- Test all pages.
+- Test all links and buttons.
+- Test forms.
+- Test mobile layouts.
+- Test SEO implementation.
+- Test performance.
+- Fix all discovered issues.
+
+### Phase 6: Deployment
+
+- Prepare production files.
+- Configure hosting.
+- Configure HTTPS.
+- Publish the website.
+- Verify the live URLs.
+- Test the production website.
+- Prepare Google Search Console submission.
+
+Do not skip phases.
+
+---
+
+# 24. NON-NEGOTIABLE REQUIREMENTS
+
+The following rules are mandatory:
+
+1. The website language must be German.
+2. The 21 core SEO pages must be implemented.
+3. The homepage must target webentwicklung und seo agentur.
+4. All 10 keyword pages must have individual content strategies.
+5. All 5 location pages must have genuine local relevance.
+6. All 5 service pages must provide useful commercial information.
+7. All pages must be internally connected.
+8. All pages must have unique and appropriate metadata.
+9. Implement comprehensive on-page SEO.
+10. Implement comprehensive technical SEO.
+11. Use high-quality, legally usable images.
+12. Add meaningful image alt attributes.
+13. Implement a professional favicon and logo.
+14. Design must look clean, modern, and corporate.
+15. The entire website must be responsive.
+16. Animations must be smooth and performance-friendly.
+17. All buttons and links must work.
+18. Contact functionality must be genuinely operational.
+19. No fake content, testimonials, statistics, or locations.
+20. No unfinished sections or placeholder text.
+21. No keyword stuffing or thin SEO pages.
+22. No broken navigation.
+23. No unnecessary complex technologies.
+24. No accidental duplicate or non-canonical pages.
+25. No false claims of indexing, ranking, or legal compliance.
+
+---
+
+# 25. FINAL OBJECTIVE
+
+The final website must establish Landing Factory as a professional, credible, and competitive German Webentwicklung und SEO Agentur.
+
+It must be designed to:
+
+- Rank for relevant commercial German search queries.
+- Improve organic search visibility.
+- Attract potential business customers.
+- Explain services clearly.
+- Build trust.
+- Demonstrate professional expertise.
+- Convert qualified visitors into inquiries.
+- Support long-term organic growth.
+- Establish a strong online presence across Germany.
+
+Do not focus on creating the largest possible amount of content.
+
+Focus on creating the most useful, technically sound, well-structured, and commercially effective website possible.
+
+**Final quality standard: Build a website that looks like a professionally developed premium WordPress agency website, but is implemented using lightweight, clean HTML5, CSS3, and Vanilla JavaScript.**
+
+The result must be production-ready, SEO-focused, responsive, functional, and maintainable.
+
+Begin with research, keyword validation, and the complete website architecture. Present the research findings and proposed page mapping before implementation. Then proceed systematically through all development phases, verifying each deliverable rather than assuming it is complete.
+
+Never claim that a feature is implemented, a page is indexed, a form works, or an SEO requirement is satisfied unless it has actually been built and verified.

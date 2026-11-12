@@ -1,0 +1,6 @@
+# robots.txt for Landing Factory (https://www.landing-factory.de)
+User-agent: *
+Allow: /
+
+Sitemap: https://www.landing-factory.de/sitemap.xml
+Host: https://www.landing-factory.de
